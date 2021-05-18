@@ -1,6 +1,6 @@
-### Hi there 👋
+### <h2>Hi there 👋</h2>
 
-Sobre mim
+<h3>Sobre mim</h3>
 
 🎓. Cursando Sistemas de Infomação
 
