@@ -2,8 +2,4 @@
 
 <h3>Sobre mim</h3>
 
-🎓. Cursando Sistemas de Infomação
-
-🌱. Atualmente estudando JavaScript e Typescript.
-
-💻. Unity3d
+🎓. Sistemas de Infomação
