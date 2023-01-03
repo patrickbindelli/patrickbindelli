@@ -14,3 +14,6 @@ Eu sou um jovem desenvolvedor com conhecimentos em diversas tecnologias, como Py
 
 ## 📫 Contato
 [Linkedin](https://linkedin/in/patrickbindelli)
+
+## 🏆Badges
+![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/68287231/210439849-f22f29ed-b9c6-45f0-86ef-7666ed063055.png)
